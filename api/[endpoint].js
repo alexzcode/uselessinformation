@@ -7,7 +7,14 @@ export default async function handler(req, res) {
     }
   
     try {
-      const url = `https://wedontneedthisyet.com/${endpoint}`; // Dynamic URL
+      const url = `https://wedontneedthisyet.com
+      // 
+      // 
+      // 
+      // 
+      // 
+      // 
+      // /${endpoint}`; // Dynamic URL
       const response = await fetch(url, {
         method: "POST",
         headers: {
