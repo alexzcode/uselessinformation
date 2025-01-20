@@ -17,3 +17,8 @@ p, h1, h2, h3, h4, h5, h6 {
     border: 0px;
     margin: 0px;
 }
+body, html {
+    margin: 0; /* Remove any default margins */
+    padding: 0; /* Remove any default padding */
+    width: 100%; /* Ensure full width */
+}
