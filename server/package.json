@@ -1,0 +1,23 @@
+{
+    "name": "The Useless Information Database Project",
+    "version": "1.0.0",
+    "description": "Check git repo for info",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/alexzcode/emcinfo.git"
+    },
+    "author": "alexzcode",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/alexzcode/emcinfo/issues"
+    },
+    "homepage": "https://github.com/alexzcode/emcinfo#readme",
+    "dependencies": {
+      "cors": "^2.8.5"
+    }
+  }
+  
