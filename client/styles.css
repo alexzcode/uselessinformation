@@ -13,5 +13,5 @@ p, h1, h2, h3, h4, h5, h6 {
 .gt-d {
     padding-top: 25px;
     padding-bottom: 25px;
-    background-color: linear-gradient(gray,white);
+    background-image: linear-gradient(gray,white);
 }
